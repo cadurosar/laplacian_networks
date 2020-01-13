@@ -1,0 +1,21 @@
+{
+    "python.pythonPath": "/home/crosarko/anaconda3/envs/torch/bin/python",
+    "python.linting.pep8Enabled": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        ".vscode": true,
+        "**/*.pyc": true,
+        "**/__pycache__": true,
+        ".ipynb_checkpoints": true,
+        "data": true
+    },
+    "workbench.editor.enablePreview": false,
+    "editor.rulers": [
+        80,
+        120
+    ],
+}
